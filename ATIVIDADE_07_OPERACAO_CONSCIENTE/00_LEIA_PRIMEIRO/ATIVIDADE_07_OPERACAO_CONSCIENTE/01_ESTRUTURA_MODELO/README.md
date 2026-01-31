@@ -19,6 +19,7 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 └── snapshots/
     └── README.md
 
+
 ## Roteiro de navegação (siga nesta ordem)
 
 1) index.html → veja o que o cliente enxerga (a vitrine)
