@@ -1,46 +1,37 @@
-# Estrutura modelo
+# Estrutura modelo (visão do sistema)
 
-Esta pasta representa a estrutura real de um projeto de e-commerce inteligente.
+Você está vendo a estrutura real (em modo simulação) de um e-commerce inteligente.
+Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 
-Nada aqui deve ser editado.
-O objetivo é apenas reconhecimento e observação.
+## Mapa visual da estrutura
 
-Antes de entrar em cada pasta, veja abaixo o que cada uma representa.
-Isso vai te ajudar a entender o sistema com mais clareza.
+01_ESTRUTURA_MODELO/
+├── index.html
+├── config/
+│   └── config.json
+├── data/
+│   └── products.json
+├── assets/
+│   └── products/
+│       └── README.md
+├── theme/
+│   └── README.md
+└── snapshots/
+    └── README.md
 
-## Mapa da estrutura
+## Roteiro de navegação (siga nesta ordem)
 
-Você encontrará as seguintes pastas e arquivos:
+1) index.html → veja o que o cliente enxerga (a vitrine)
+2) data/products.json → veja de onde vêm produtos e preços
+3) config/config.json → veja onde ficam regras estruturais
+4) assets/products/ → veja onde ficam as imagens
+5) theme/ → veja onde fica a identidade visual
+6) snapshots/ → veja como o sistema se protege antes de publicar
 
-- index.html  
-  Representa a vitrine digital.  
-  É o que o cliente final vê ao acessar a loja.
+## Regra de ouro
 
-- config/  
-  Guarda as regras estruturais do sistema.  
-  Aqui ficam definições que não fazem parte do dia a dia do cliente.
+- Não edite arquivos.
+- Não copie para testar.
+- Apenas observe e entenda a lógica.
 
-- data/  
-  Contém os dados que alimentam a vitrine.  
-  É onde ficam produtos, preços e status (organizados pela ferramenta).
-
-- assets/products/  
-  Guarda as imagens dos produtos.  
-  A curadoria visual é responsabilidade do embaixador.
-
-- theme/  
-  Define a identidade visual da loja.  
-  Cores, tipografia e aparência geral ficam aqui.
-
-- snapshots/  
-  Guarda registros do estado da loja antes de publicações.  
-  Serve para voltar atrás com segurança se algo der errado.
-
-## Como explorar esta estrutura
-
-- Clique nas pastas uma a uma.
-- Leia os arquivos apenas para entender o papel de cada parte.
-- Não edite, não copie e não teste nada.
-- O aprendizado aqui acontece pela observação consciente.
-
-Você está no caminho certo apenas por explorar com atenção.
+Depois de explorar, volte para a página da atividade e responda ao checklist.
