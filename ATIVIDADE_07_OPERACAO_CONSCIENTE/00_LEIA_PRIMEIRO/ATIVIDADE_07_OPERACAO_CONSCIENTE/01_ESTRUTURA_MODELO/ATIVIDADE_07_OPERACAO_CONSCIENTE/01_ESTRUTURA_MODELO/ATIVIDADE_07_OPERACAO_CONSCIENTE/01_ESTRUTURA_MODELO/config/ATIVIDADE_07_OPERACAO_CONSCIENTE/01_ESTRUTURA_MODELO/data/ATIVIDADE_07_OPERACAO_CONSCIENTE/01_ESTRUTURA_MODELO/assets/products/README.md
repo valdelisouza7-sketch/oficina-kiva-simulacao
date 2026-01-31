@@ -1,6 +1,5 @@
-# Imagens de produtos
+# Imagens de produtos (assets)
 
-Esta pasta guarda as imagens dos produtos da loja.
+Imagens de produtos ficam aqui.
+Nesta atividade, apenas reconhecimento. A prática de imagens será na Atividade 08.
 
-Neste ambiente de simulação, não há imagens reais.
-A curadoria visual será trabalhada na Atividade 08.
