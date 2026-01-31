@@ -23,14 +23,22 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 │
 └── snapshots/``
 
-## Roteiro de navegação (siga nesta ordem)
+Aqui você vai apenas observar a estrutura real (em modo simulação) de um e-commerce inteligente.
+O objetivo não é mexer: é reconhecer como o sistema se organiza.
 
-1) index.html → veja o que o cliente enxerga (a vitrine)
-2) data/products.json → veja de onde vêm produtos e preços
-3) config/config.json → veja onde ficam regras estruturais
-4) assets/products/ → veja onde ficam as imagens
-5) theme/ → veja onde fica a identidade visual
-6) snapshots/ → veja como o sistema se protege antes de publicar
+## Como explorar
+
+Explore pasta por pasta, com calma.  
+Cada pasta tem um README curto explicando o que observar.
+
+Siga esta ordem:
+
+1) index.html  
+2) data/  
+3) config/  
+4) assets/products/  
+5) theme/  
+6) snapshots/
 
 ## Regra de ouro
 
@@ -38,4 +46,6 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 - Não copie para testar.
 - Apenas observe e entenda a lógica.
 
-Depois de explorar, volte para a página da atividade e responda ao checklist.
+Depois, volte para a página da atividade e responda ao checklist.
+
+
