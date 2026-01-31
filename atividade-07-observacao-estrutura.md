@@ -1,5 +1,5 @@
-Atividade 07 — Observação Guiada da Estrutura
-Contexto
+#Atividade 07 — Observação Guiada da Estrutura
+#Contexto
 
 Nesta atividade, você não vai configurar, editar ou publicar nada.
 
@@ -7,7 +7,7 @@ O objetivo aqui é observar, com calma, a estrutura de um projeto real de e-comm
 
 Este é um momento de reconhecimento e compreensão, não de execução.
 
-Objetivo da atividade
+#Objetivo da atividade
 
 Ao final desta atividade, você deverá ser capaz de:
 
@@ -19,7 +19,7 @@ Perceber que nem tudo em um projeto existe para ser mexido
 
 Entender por que a separação entre prática e produção é importante
 
-Orientação de observação
+#Orientação de observação
 
 Durante esta atividade, concentre sua observação especialmente na pasta
 ATIVIDADE_07_OPERACAO_CONSCIENTE / 01_ESTRUTURA_MODELO.
@@ -45,7 +45,7 @@ O objetivo é apenas reconhecer padrões e relações.
 Nesta atividade, não edite arquivos, não faça cópias e não tente testar nada.
 Aqui, aprender acontece pela observação consciente.
 
-Perguntas de reflexão
+#Perguntas de reflexão
 
 Responda às perguntas abaixo com calma. Não existe resposta certa ou errada.
 
