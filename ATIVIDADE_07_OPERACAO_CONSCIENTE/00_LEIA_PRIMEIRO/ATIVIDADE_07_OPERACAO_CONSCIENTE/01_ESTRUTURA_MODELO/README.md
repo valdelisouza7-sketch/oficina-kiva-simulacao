@@ -25,23 +25,12 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 
 ## Roteiro de navegação (siga nesta ordem)
 
-1. index.html  
-   Veja o que o cliente final enxerga (a vitrine).
-
-2. data/products.json  
-   Veja de onde vêm produtos e preços.
-
-3. config/config.json  
-   Veja onde ficam as regras estruturais do sistema.
-
-4. assets/products/  
-   Veja onde ficam as imagens dos produtos.
-
-5. theme/  
-   Veja onde fica a identidade visual da loja.
-
-6. snapshots/  
-   Veja como o sistema se protege antes de publicar.
+1) index.html → veja o que o cliente enxerga (a vitrine)
+2) data/products.json → veja de onde vêm produtos e preços
+3) config/config.json → veja onde ficam regras estruturais
+4) assets/products/ → veja onde ficam as imagens
+5) theme/ → veja onde fica a identidade visual
+6) snapshots/ → veja como o sistema se protege antes de publicar
 
 ## Regra de ouro
 
