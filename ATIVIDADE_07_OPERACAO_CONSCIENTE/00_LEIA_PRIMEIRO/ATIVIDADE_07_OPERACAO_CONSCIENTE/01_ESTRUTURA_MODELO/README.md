@@ -7,18 +7,21 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 
 ## Mapa visual da estrutura (leitura vertical)
 
-01_ESTRUTURA_MODELO/
-├── index.html        ← o que o cliente vê
-├── data/             ← o que alimenta a vitrine
+```01_ESTRUTURA_MODELO/
+├── index.html
+│
+├── data/
 │   └── products.json
-├── config/           ← regras estruturais
+│
+├── config/
 │   └── config.json
-├── assets/           ← imagens
+│
+├── assets/
 │   └── products/
-├── theme/            ← identidade visual
-└── snapshots/        ← proteção
-
-
+│
+├── theme/
+│
+└── snapshots/``
 
 ## Roteiro de navegação (siga nesta ordem)
 
