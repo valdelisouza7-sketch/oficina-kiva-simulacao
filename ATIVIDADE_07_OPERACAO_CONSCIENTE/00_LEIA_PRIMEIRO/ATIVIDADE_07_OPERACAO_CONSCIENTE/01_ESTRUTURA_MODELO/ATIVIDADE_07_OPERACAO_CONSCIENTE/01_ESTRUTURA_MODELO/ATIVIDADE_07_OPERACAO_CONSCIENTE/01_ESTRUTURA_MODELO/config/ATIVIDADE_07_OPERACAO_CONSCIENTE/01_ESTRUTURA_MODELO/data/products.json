@@ -1,0 +1,6 @@
+{
+  "_aviso": "Catálogo modelo — dados fictícios",
+  "products": [
+    { "id": "prod-001", "name": "Produto Exemplo", "price": 99.9, "status": "ativo" }
+  ]
+}
