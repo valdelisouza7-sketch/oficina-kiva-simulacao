@@ -1,6 +1,7 @@
 #Atividade 07 — Observação Guiada da Estrutura
 
 #Contexto
+
 Nesta atividade, você não vai configurar, editar ou publicar nada.
 
 O objetivo aqui é observar, com calma, a estrutura de um projeto real de e-commerce inteligente, em um ambiente seguro e sem riscos.
