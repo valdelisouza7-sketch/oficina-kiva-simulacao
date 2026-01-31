@@ -1,20 +1,41 @@
-# Cenário do desafio
+# Cenário do desafio — Briefing introdutório
 
-Esta pasta NÃO faz parte da estrutura técnica do e-commerce.
+Imagine que você está apoiando um pequeno negócio
+que está iniciando sua presença digital.
 
-Ela existe apenas para contextualizar a Atividade 07
-e ajudar você a entender em que situação a simulação está inserida.
+Esse negócio já possui produtos definidos
+e precisa organizar seu e-commerce de forma simples,
+segura e sem retrabalho.
 
-Aqui você encontra:
-- o briefing do cenário
-- as regras do exercício
-- o contexto fictício do cliente
+O sistema que você está observando neste ambiente
+representa a base utilizada para estruturar esse e-commerce:
+produtos, preços, imagens e regras de funcionamento.
 
-Você NÃO precisa explorar esta pasta agora
-para compreender a estrutura do sistema.
+Nesta atividade, seu papel NÃO é configurar, sugerir melhorias
+ou tomar decisões.
 
-O foco desta atividade está na pasta:
-01_ESTRUTURA_MODELO
+Seu papel agora é apenas compreender como o sistema
+foi organizado para funcionar bem.
 
-Considere este conteúdo apenas como pano de fundo pedagógico.
+Nas próximas atividades, você será convidado(a)
+a assumir um papel mais ativo dentro desse mesmo contexto.
+
+## Importante — o que fazer nesta etapa
+
+Neste momento, você NÃO precisa analisar o briefing,
+NÃO precisa tomar decisões
+e NÃO precisa propor melhorias.
+
+O briefing existe apenas para te situar no contexto
+em que o sistema está inserido.
+
+O que se espera de você agora é apenas:
+
+- acessar as pastas do sistema
+- observar a estrutura com calma
+- entender o fluxo geral de funcionamento
+- reconhecer onde cada tipo de informação fica
+
+A ação virá nas próximas atividades.
+Aqui, o aprendizado acontece pela observação consciente.
 
