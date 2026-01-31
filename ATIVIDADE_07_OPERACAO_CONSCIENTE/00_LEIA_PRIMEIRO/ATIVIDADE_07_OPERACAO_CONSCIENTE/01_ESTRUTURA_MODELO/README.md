@@ -7,15 +7,20 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 
 01_ESTRUTURA_MODELO/
 ├── index.html
+│
 ├── config/
 │   └── config.json
+│
 ├── data/
 │   └── products.json
+│
 ├── assets/
 │   └── products/
 │       └── README.md
+│
 ├── theme/
 │   └── README.md
+│
 └── snapshots/
     └── README.md
 
