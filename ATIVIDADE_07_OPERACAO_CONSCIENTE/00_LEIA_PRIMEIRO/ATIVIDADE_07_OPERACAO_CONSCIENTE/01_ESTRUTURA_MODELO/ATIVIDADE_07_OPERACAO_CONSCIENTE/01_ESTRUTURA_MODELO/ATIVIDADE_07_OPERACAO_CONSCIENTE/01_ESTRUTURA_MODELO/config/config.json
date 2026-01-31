@@ -1,0 +1,8 @@
+{
+  "_aviso": "Arquivo ilustrativo — somente leitura",
+  "store_rules": {
+    "currency": "BRL",
+    "checkout": "whatsapp",
+    "editable_by_client": false
+  }
+}
