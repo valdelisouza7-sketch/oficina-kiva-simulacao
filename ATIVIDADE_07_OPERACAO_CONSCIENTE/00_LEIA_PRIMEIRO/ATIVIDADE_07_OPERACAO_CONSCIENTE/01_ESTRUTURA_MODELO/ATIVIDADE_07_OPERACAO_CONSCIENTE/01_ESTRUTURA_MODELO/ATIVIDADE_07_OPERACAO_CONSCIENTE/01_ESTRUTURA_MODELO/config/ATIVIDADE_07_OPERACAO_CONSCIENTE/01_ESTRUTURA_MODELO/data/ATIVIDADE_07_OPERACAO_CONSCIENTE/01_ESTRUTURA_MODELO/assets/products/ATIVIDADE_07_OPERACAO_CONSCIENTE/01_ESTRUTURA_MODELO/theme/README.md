@@ -1,6 +1,5 @@
-# Identidade visual
+# Identidade visual (Theme)
 
-Esta pasta guarda cores, tipografia e estilos da vitrine.
+Identidade visual da vitrine (cores, fontes, layout).
+Somente leitura.
 
-Não faz parte da operação diária e não deve ser alterada
-sem orientação técnica.
