@@ -3,8 +3,6 @@
 Você está vendo a estrutura real (em modo simulação) de um e-commerce inteligente.
 Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 
----
-
 ## Mapa visual da estrutura (leitura vertical)
 
 ```01_ESTRUTURA_MODELO/
@@ -23,8 +21,6 @@ Aqui, o objetivo não é mexer: é reconhecer como o sistema se organiza.
 │
 └── snapshots/``
 
-Aqui você vai apenas observar a estrutura real (em modo simulação) de um e-commerce inteligente.
-O objetivo não é mexer: é reconhecer como o sistema se organiza.
 
 ## Como explorar
 
@@ -47,5 +43,4 @@ Siga esta ordem:
 - Apenas observe e entenda a lógica.
 
 Depois, volte para a página da atividade e responda ao checklist.
-
 
