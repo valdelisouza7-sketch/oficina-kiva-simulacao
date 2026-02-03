@@ -1,3 +1,9 @@
+← [Voltar para a Oficina Kiva](https://kivadigital.com.br/oficina-kiva.html)
+- Online: https://kivadigital.com.br/oficina-kiva.html  
+- Local: abra o arquivo `oficina-kiva.html` no navegador
+
+
+
 # Orientações iniciais — Atividade 07
 
 Se este é o seu primeiro contato com o GitHub, fique tranquilo.
