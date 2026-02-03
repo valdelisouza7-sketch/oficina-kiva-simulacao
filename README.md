@@ -1,4 +1,6 @@
 ← [Voltar para a Oficina Kiva](https://kivadigital.com.br/oficina-kiva.html)
+- Online: https://kivadigital.com.br/oficina-kiva.html  
+- Local: abra o arquivo `oficina-kiva.html` no navegador
 
 
 # Oficina Kiva — Ambiente de Simulação
